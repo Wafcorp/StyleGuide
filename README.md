@@ -30,10 +30,8 @@ Style guide for WafCorp Repo's
 
 > [!IMPORTANT]
 > Here are some link to help with Markdown formatting:
-> 
-> [Quick Cheat Sheet](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)
-> 
-> [Full GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+> - [Quick Cheat Sheet](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)
+> - [Full GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 
