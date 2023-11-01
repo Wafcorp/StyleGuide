@@ -2,7 +2,7 @@
 
 Style guide for WafCorp Repo's
 
-### Project Style:
+## Project Style:
 
 - If the project is version there are 2 options :
     - Semver[^1] *(e.g. 1.2.3)*
@@ -14,11 +14,11 @@ Style guide for WafCorp Repo's
     - Refrain from using number characters in name. Instead, spell the number out. *(Only apply if the number is not a
       version number)*
 
-### Folder Naming:
+## Folder Naming:
 
 - Should follow the same naming scheme as Projects
 
-### Files:
+## Files:
 
 - Naming:
     - Must follow snake_case[^3] *(e.g. apple_file.txt)*
@@ -29,8 +29,10 @@ Style guide for WafCorp Repo's
 
 
 > [!IMPORTANT]
-> Here are some link to help with markdown formating
+> Here are some link to help with Markdown formatting:
+> 
 > [Quick Cheat Sheet](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)
+> 
 > [Full GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
