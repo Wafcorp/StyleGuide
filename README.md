@@ -35,9 +35,13 @@ Style guide for WafCorp Repo's
 
 
 
-[^1]: Semver(Semantic versioning) is a versioning format that is made of three Identifiers. The First 1.x.x being
-major (Breaking) version changes. Second x.1.x being minor (Non-breaking) version changes. Third x.x.1 being a patch /
-bugfix version. Read more here: https://semver.org/
+[^1]: Semver(Semantic versioning) is a versioning format that is made of three Identifiers. 
+
+The First 1.x.x being major (Breaking) version changes. 
+
+Second x.1.x being minor (Non-breaking) version changes. 
+
+Third x.x.1 being a patch / bugfix version. Read more here: https://semver.org/
 [^2]: PascalCase is the practice of writing phrases without spaces or punctuation and with all words being capitalized.
 [^3]: snake_case is the naming convention in which each space is replaced with an underscore "_" character, and the first letter of each word is written in lowercase.
 [^4]: Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
