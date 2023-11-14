@@ -1,17 +1,17 @@
 # StyleGuide
 
-Style guide for WafCorp Repo's
+Style guide for WafCorp Repos
 
 ## Project Style:
 
-- If the project is version there are 2 options :
+- If the project has multiple versions, there are 2 options :
     - Semver[^1] *(e.g. 1.2.3)*
-    - Or if the versioning doesn't need to be complex, it should single digit and separated from name with a "-". *(
+    - Or if the versioning doesn't need to be complex, it should be single digit and separated from the name with a "-". *(
       e.g. "Season-3")*
 - Naming :
     - Must follow PascalCase[^2]. *(e.g. FirstProject)*
     - Should not contain any special characters.
-    - Refrain from using number characters in name. Instead, spell the number out. *(Only apply if the number is not a
+    - Refrain from using number characters in name. Instead, spell the number out. *(Only applies if the number is not a
       version number)*
 
 ## Folder Naming:
@@ -22,13 +22,13 @@ Style guide for WafCorp Repo's
 
 - Naming:
     - Must follow snake_case[^3]. *(e.g. apple_file.txt)*
-    - Should not contain any special characters. Unless necessary.
+    - Should not contain any special characters (unless necessary).
     - Refrain from using number characters in name. Instead, spell the number out, or not use it at all.
 - File format:
-    - Text files should all be Markdown[^4] files. Unless other format is necessary. *(e.g. file_name.md)*
+    - Text files should all be Markdown[^4] files, unless a different format is necessary. *(e.g. file_name.md)*
 
 > [!IMPORTANT]
-> Here are some link to help with Markdown formatting:
+> Here are some links to help with Markdown formatting:
 > - [Quick Cheat Sheet](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)
 > - [Full GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
